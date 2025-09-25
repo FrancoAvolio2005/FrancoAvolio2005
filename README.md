@@ -46,6 +46,7 @@ Hello, I'm Franco Avolio, a Computer Science student. I've gained experience dev
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCobolIDE-003366?style=for-the-badge&logoColor=white">
 
 
 <h4> Other Tools and Technologies </h4>
