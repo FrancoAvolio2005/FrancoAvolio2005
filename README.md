@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72aa4cce-60d9-4cca-afea-95b2b01ed442" width="800" alt="Fondo profesional para GitHub">
 </p>
-<h1 align="center">Hi , I'm Franco Avolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Franco Avolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Hello, I'm Franco Avolio, a Computer Science student. I've gained experience developing web applications and local systems for companies, applying best practices to ensure their proper functioning. I'm dedicated, proactive, and creative in my field.
 
